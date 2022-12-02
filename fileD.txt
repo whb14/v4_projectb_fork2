@@ -2,3 +2,4 @@ Add feature 2
 Minor change
 Feature 3
 feature 2 mistake
+feature 2 correction
