@@ -2,3 +2,4 @@ Add feature 1
 feature 1 mistake
 feature 1 bigger mistake
 remove feature 1 mistake
+remove feature 1 bigger mistake
