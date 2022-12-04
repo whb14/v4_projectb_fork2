@@ -5,3 +5,4 @@ feature 2 mistake
 feature 2 bigger mistake
 feature 2 correction
 add feature 3 mistake
+remove feature 3 mistake
