@@ -7,3 +7,5 @@ feature 2 wip
 Complete feature 2
 Made a mistake
 Correct the mistake
+revisit feature 2 wip
+refine feature 2
