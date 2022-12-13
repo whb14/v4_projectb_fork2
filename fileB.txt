@@ -5,3 +5,5 @@ feature 2
 I love you Jerry
 feature 2 wip
 Complete feature 2
+Made a mistake
+Correct the mistake
