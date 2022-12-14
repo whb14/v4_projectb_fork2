@@ -6,6 +6,7 @@ feature 3
 feature 3 wip
 feature 4 wip
 feature 4
+<<<<<<< HEAD
 feature 5
 feature 5 wip
 feature 5 wip2
